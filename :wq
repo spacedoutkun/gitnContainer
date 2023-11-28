@@ -1,0 +1,37 @@
+[33mcommit 0c92b15f9602d65a44d6f63e2361d99bdb8c2fd6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 8d49841 c95d8b8
+Author: pranav <pranavambhore30@gmail.com>
+Date:   Tue Nov 28 13:12:00 2023 +0530
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+[33mcommit c95d8b821dc750fcfe5219f0537e9e2827e71a70[m
+Author: Developer <pranavambhore30gt@gmail.com>
+Date:   Tue Nov 28 13:11:07 2023 +0530
+
+    index v2
+
+[33mcommit 8d498419952fa9fea2679fbdffff1906e9ea26c1[m
+Merge: 36e8151 6e3d2ae
+Author: pranav <pranavambhore30@gmail.com>
+Date:   Tue Nov 28 12:46:56 2023 +0530
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+[33mcommit 6e3d2ae84888584435651a725f03779fb8d0bfa7[m
+Author: Developer <pranavambhore30gt@gmail.com>
+Date:   Tue Nov 28 12:37:00 2023 +0530
+
+    modified index.html -v1
+
+[33mcommit 36e81510428c110bf7f9e5a3d2bf83eb0db6c0cc[m
+Author: pranav <pranavambhore30@gmail.com>
+Date:   Tue Nov 28 12:23:58 2023 +0530
+
+    gitignore
+
+[33mcommit afff8e3d444dcf285a6663983708857f8adf422f[m
+Author: Pranav Ambhore <97823606+spacedoutkun@users.noreply.github.com>
+Date:   Tue Nov 28 11:51:52 2023 +0530
+
+    Create index.html
